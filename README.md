@@ -23,10 +23,10 @@ PyTorch 실습
 - [WEEK_02_학습정리.pdf](./WEEK_02/WEEK_02_학습정리.pdf) : 2주차 학습정리
 
 과제 
-- [WEEK_02_01_과제](./WEEK_01/WEEK_02_01_과제.ipynb) : 임베딩 레이어 추출 실습
-- [WEEK_02_02_과제](./WEEK_01/WEEK_02_02_과제.ipynb) : BERT fine-tuning 실습
-- [WEEK_02_03_과제](./WEEK_01/WEEK_02_03_과제.ipynb) : Dataset 클래스 구현
-- [WEEK_02_04_과제](./WEEK_01/WEEK_02_04_과제.ipynb) : 모델 학습 및 추론 구현
+- [WEEK_02_01_과제](./WEEK_02/WEEK_02_01_과제.ipynb) : 임베딩 레이어 추출 실습
+- [WEEK_02_02_과제](./WEEK_02/WEEK_02_02_과제.ipynb) : BERT fine-tuning 실습
+- [WEEK_02_03_과제](./WEEK_02/WEEK_02_03_과제.ipynb) : Dataset 클래스 구현
+- [WEEK_02_04_과제](./WEEK_02/WEEK_02_04_과제.ipynb) : 모델 학습 및 추론 구현
  
 
 ## 3️⃣ WEEK_03
@@ -34,10 +34,10 @@ PyTorch 실습
 - [WEEK_03_학습정리.pdf](./WEEK_03/WEEK_03_학습정리.pdf) : 3주차 학습정리
 
 과제
-- [WEEK_03_01_과제](./WEEK_01/WEEK_03_01_과제.ipynb) : Skip-Gram 구현
-- [WEEK_03_02_과제](./WEEK_01/WEEK_03_02_과제.ipynb) : 토크나이저 실습
-- [WEEK_03_03_과제](./WEEK_01/WEEK_03_03_과제.pdf) : Attention Is All You Need 요약
-- [WEEK_03_04_과제](./WEEK_01/WEEK_03_04_과제.ipynb) : [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 코드 필사
+- [WEEK_03_01_과제](./WEEK_03/WEEK_03_01_과제.ipynb) : Skip-Gram 구현
+- [WEEK_03_02_과제](./WEEK_03/WEEK_03_02_과제.ipynb) : 토크나이저 실습
+- [WEEK_03_03_과제](./WEEK_03/WEEK_03_03_과제.pdf) : Attention Is All You Need 요약
+- [WEEK_03_04_과제](./WEEK_03/WEEK_03_04_과제.ipynb) : [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 코드 필사
 
 
 ## 4️⃣ WEEK_04
@@ -52,8 +52,8 @@ FastAPI 학습
 
 ## 6️⃣ 기업과제_01_02 
 - [기업과제_01_6팀_손지아.ipynb](./기업과제_01_02/기업과제_01_6팀_손지아.ipynb) : 문자열 매칭 알고리즘 구현
-- [기업과제_02_6팀_손지아_데이터 분석.pdf](./기업과제_01_02/기업과제_02_6팀_손지아_데이터 분석.pdf) : 데이터 분석 보고서
-- [기업과제_02_6팀_손지아_시각화.ipynb]./기업과제_01_02/기업과제_02_6팀_손지아_시각화.ipynb) : 데이터 분석 및 시각화 코드
+- [기업과제_02_6팀_손지아_데이터_분석.pdf](./기업과제_01_02/기업과제_02_6팀_손지아_데이터_분석.pdf) : 데이터 분석 보고서
+- [기업과제_02_6팀_손지아_시각화.ipynb](./기업과제_01_02/기업과제_02_6팀_손지아_시각화.ipynb) : 데이터 분석 및 시각화 코드
 
 
 ## 7️⃣ 기업과제_03_04
