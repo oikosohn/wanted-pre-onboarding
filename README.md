@@ -58,4 +58,4 @@ FastAPI 학습
 
 ## 7️⃣ 기업과제_03_04
 - [기업과제_03_6팀_깃허브](https://github.com/wanted-AI-06/Assignment-03) : KLUE STS Dev set을 추론하고 평가
-- [기업과제_04_6팀_깃허브](https://github.com/wanted-AI-06/Assignment-04) : KoBART를 이용한 생성 요약
+- [기업과제_04_6팀_깃허브](https://github.com/wanted-AI-06/Assignment-04) : (private 전환) KoBART를 이용한 생성 요약 
